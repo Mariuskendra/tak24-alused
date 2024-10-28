@@ -12,3 +12,4 @@ elif n2 > n3:
 
 else:
     print(n3, "on maksimum")
+
